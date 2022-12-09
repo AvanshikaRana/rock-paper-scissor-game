@@ -1,3 +1,4 @@
+#here we are importing random variable
 import random
 result=""
 while True:
